@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  backend:
+    image: 21bcp133-backend
+    build: ./backend
+    ports:
+      - "3036:3036"
+  frontend:
+    image: 21bcp133-frontend
+    build: ./frontend
+    ports:
+      - "80:80"
+  database:
+    image: mongo:latest
+    build:
+      context: ./database
+    ports:
+      - "27017:27017"
