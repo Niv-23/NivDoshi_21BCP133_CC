@@ -1,5 +1,5 @@
 # NivDoshi_21BCP133_CC
-This is for Cloud Computing IA-2
+**This is for Cloud Computing IA-2**
 Setting Up a Jekyll Blog on GitHub Pages
 
 Create a New GitHub Repository:
