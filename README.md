@@ -5,7 +5,7 @@ Hello everyone! My name is Niv Doshi, and I'm thrilled to share my journey into 
 
 ## Creating the Basic Website
 
-To kick things off, I started by creating a basic website using HTML, CSS, and JavaScript. This website served as the foundation for my blog, where I could later host 
+To kick things off, I started by creating a basic website using HTML, CSS, and JavaScript. This website served as the foundation for my blog, where I could later host.
 my blog posts and showcase my projects.
 
 After creating the basic website, I created another website and hosted it then committed the code to a GitHub repository named, following the instructions provided by my university.
