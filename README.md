@@ -5,19 +5,19 @@ Hello everyone! My name is Niv Doshi, and I'm thrilled to share my journey into 
 
 ## Creating the Basic Website
 
-To kick things off, I started by creating a basic website using HTML, CSS, and JavaScript. This website served as the foundation for my blog, where I could later host.
+To kick things off, I started by creating a basic website using HTML, CSS, and JavaScript. This website served as the foundation for my blog, which I could later host.
 my blog posts and showcase my projects.
 
-After creating the basic website, I created another website and hosted it then committed the code to a GitHub repository named, following the instructions provided by my university.
+After creating the basic website, I created another website and hosted it then committed the code to a GitHub repository, following the instructions provided by my university.
 
 
 ## Containerizing with Docker
 
-Containerizing with Docker was a pivotal step in my journey, making it simpler to deploy and manage my website. Let's delve into the process:
+Containerizing with Docker was a pivotal step in my journey, making deploying and managing my website simpler. Let's delve into the process:
 
 ### 1. Crafting the Dockerfile
 
-To kickstart the containerization process, I created a special file called a Dockerfile. This file served as the blueprint for building my container image. Think of it as a set of instructions telling Docker exactly how to package up my website.
+I created a special file called a Dockerfile to kickstart the containerization process. This file served as the blueprint for building my container image. Think of it as a set of instructions telling Docker exactly how to package up my website.
 
 ### 2. Building the Image
 
@@ -38,7 +38,7 @@ After successfully containerizing my website, the next step was to share it with
 
 To begin, I used Git commands to push the code to my GitHub repository. This simple yet crucial step ensured that my website code was securely stored and easily accessible on GitHub. By pushing the code to GitHub, I made it possible for others to view, collaborate, and contribute to my project.
 
-###2. Dockerhub: Uploading the Docker Image
+### 2. Dockerhub: Uploading the Docker Image
 
 Once my website code was safely nestled in its GitHub repository, it was time to take the Docker image for a spin on Dockerhub. Here's the process I followed:
 
